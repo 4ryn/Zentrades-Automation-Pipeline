@@ -251,7 +251,7 @@ outputs/accounts/{account_id}/
 Example:
 
 ```
-account_001
+case_001
    │
    ├── v1
    │    memo.json
@@ -287,7 +287,7 @@ data/changelog/
 Example:
 
 ```
-account_001_changes.json
+case_001_changes.json
 ```
 
 Example output:
