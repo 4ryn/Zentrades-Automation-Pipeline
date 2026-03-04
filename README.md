@@ -112,7 +112,6 @@ Endpoints:
 ```
 POST /process-demo
 POST /process-onboarding
-GET  /accounts
 ```
 
 ---
@@ -268,7 +267,7 @@ account_001
 ```
 v1 → initial demo configuration
 v2 → onboarding updates
-v3 → future updates
+v3 + → future updates
 ```
 
 This allows full **configuration history tracking**.
@@ -445,6 +444,17 @@ GET /accounts
 - JSON configuration management
 
 ---
+
+# Future Work
+
+Potential improvements include:
+
+- real-time transcript ingestion
+- automatic prompt optimization
+- multi-agent configuration generation
+- CRM integrations
+
+
 
 # Summary
 
