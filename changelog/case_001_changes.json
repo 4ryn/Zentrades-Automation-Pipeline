@@ -1,0 +1,30 @@
+[
+  {
+    "field": "emergency_definition",
+    "old": [],
+    "new": "Power outages at gas stations for property manager client or complete power loss at commercial properties with existing contracts"
+  },
+  {
+    "field": "whitelist_numbers",
+    "old": null,
+    "new": [
+      "403-975-1800",
+      "403-975-1900"
+    ]
+  },
+  {
+    "field": "emergency_routing",
+    "old": null,
+    "new": "Call Ben directly at 403-975-1773"
+  },
+  {
+    "field": "fallback_if_transfer_fails",
+    "old": null,
+    "new": "Leave message with callback within 30 minutes"
+  },
+  {
+    "field": "transfer_timeout",
+    "old": null,
+    "new": "45 seconds"
+  }
+]

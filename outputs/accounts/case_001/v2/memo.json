@@ -1,0 +1,63 @@
+{
+  "account_id": "case_001",
+  "business_profile": {
+    "owner_name": "Ben",
+    "industry": "Electrical",
+    "years_in_business": 8,
+    "current_challenges": [
+      "Admin and back-end tasks",
+      "Growing the business"
+    ],
+    "current_team": {
+      "employees": 2,
+      "vans": 2
+    },
+    "future_plans": {
+      "hiring_operations_manager": true,
+      "business_growth": true
+    },
+    "previous_solutions": {
+      "virtual_assistant": "Used in the past, but not successfully"
+    }
+  },
+  "company_name": null,
+  "business_hours": {
+    "days": null,
+    "start": null,
+    "end": null,
+    "timezone": null
+  },
+  "office_address": null,
+  "services_supported": [
+    "Electrical services"
+  ],
+  "emergency_definition": "Power outages at gas stations for property manager client or complete power loss at commercial properties with existing contracts",
+  "emergency_routing_rules": {
+    "primary_contact": null,
+    "secondary_contact": null,
+    "fallback": null
+  },
+  "non_emergency_routing_rules": null,
+  "call_transfer_rules": {
+    "timeout_seconds": null,
+    "retry_attempts": null,
+    "failure_message": null
+  },
+  "integration_constraints": [],
+  "after_hours_flow_summary": null,
+  "office_hours_flow_summary": null,
+  "questions_or_unknowns": [
+    "What are the official business hours?",
+    "Who should receive emergency calls after hours?",
+    "What services should the AI schedule automatically?",
+    "Which integrations should the agent avoid?"
+  ],
+  "notes": "Ben's electrical business has been operating for 8 years with a small team, and he's looking to grow and hire an operations manager to help with admin tasks.",
+  "emergency_routing": "Call Ben directly at 403-975-1773",
+  "transfer_timeout": "45 seconds",
+  "fallback_if_transfer_fails": "Leave message with callback within 30 minutes",
+  "whitelist_numbers": [
+    "403-975-1800",
+    "403-975-1900"
+  ]
+}
