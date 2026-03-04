@@ -1,0 +1,36 @@
+version: "3"
+
+services:
+
+  n8n:
+    image: n8nio/n8n:latest
+    restart: always
+    ports:
+      - "5678:5678"
+    environment:
+      - N8N_BASIC_AUTH_ACTIVE=false
+      - NODE_FUNCTION_ALLOW_BUILTIN=*
+      - NODE_FUNCTION_ALLOW_EXTERNAL=*
+      - N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS=false
+      - N8N_RESTRICT_FILE_ACCESS_TO=
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - N8N_HOST=localhost
+      - N8N_PORT=5678
+      - WEBHOOK_URL=http://localhost:5678
+    volumes:
+      - n8n_data:/home/node/.n8n
+      - E:/clara-pipeline:/data
+
+
+  python:
+    build: .
+    restart: always
+    ports:
+      - "5000:5000"
+    volumes:
+      - E:/clara-pipeline:/data
+    working_dir: /data/scripts
+
+
+volumes:
+  n8n_data:
