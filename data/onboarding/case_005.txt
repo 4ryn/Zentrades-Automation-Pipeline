@@ -1,0 +1,29 @@
+ONBOARDING CALL - GUARDIAN ALARM SYSTEMS - CASE 005
+
+Onboarding Manager: Let's finalize your setup Patricia.
+
+Patricia: Perfect, let's do it.
+
+Onboarding Manager: Hours Monday to Friday 8am to 5pm Eastern confirmed?
+
+Patricia: Yes. We added a part time Saturday line 9am to 1pm Eastern starting next month.
+Flag that as pending for now.
+
+Onboarding Manager: Emergency routing confirmed?
+
+Patricia: Monitoring center at 404-555-0561 first. They have 45 seconds to answer.
+If no answer route to the on-call tech. Important: the on-call number changes every Monday.
+For now it is 404-555-0571. We will update this weekly going forward.
+
+Onboarding Manager: ServiceTrade constraints confirmed?
+
+Patricia: Yes. Never create inspection jobs without signed work order.
+Also new rule: never discuss pricing on the call. Always say a specialist will follow up 
+with a formal quote within 24 hours.
+
+Onboarding Manager: Anything else?
+
+Patricia: Two VIP numbers that bypass all screening.
+Atlanta School District main line 404-555-7777 and 
+Grady Hospital facilities line 404-555-7778.
+Both go straight to monitoring center immediately.

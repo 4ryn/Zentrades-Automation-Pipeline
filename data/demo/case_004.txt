@@ -1,0 +1,27 @@
+DEMO CALL - BRIGHT SPARK ELECTRICAL - CASE 004
+
+Clara Team: Good afternoon. Tell us about your company.
+
+Client: Hi I am David Okafor, owner of Bright Spark Electrical in Houston Texas.
+Commercial electrical contractor. 10 years in business. About 20 electricians on staff.
+We use ServiceTitan as our CRM. Business hours Monday to Friday 8am to 5pm Central Time.
+
+Clara Team: What are your emergency types?
+
+Client: Power outages at commercial properties, electrical fires or sparks, 
+generator failures, and any situation where a building has lost power completely.
+
+Clara Team: Emergency routing?
+
+Client: All emergencies go to our 24 hour dispatch line 713-555-0451.
+If dispatch doesn't answer in 60 seconds, it should escalate to our emergency 
+supervisor Kevin at 713-555-0452. We always want a human to answer emergencies, never voicemail.
+
+Clara Team: What don't you do?
+
+Client: No residential work at all. No solar panel installation.
+Never book jobs under $500 without manager approval.
+
+Clara Team: Call volume?
+
+Client: 50 to 80 calls a week. Lot of repeat commercial clients.

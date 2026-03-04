@@ -1,0 +1,27 @@
+DEMO CALL - APEX FIRE PROTECTION - CASE 002
+
+Clara Team: Good morning, thanks for joining. Can you tell us about your business?
+
+Client: Sure, I'm Jason Miller, owner of Apex Fire Protection in Denver, Colorado. 
+We do fire sprinkler installation, inspection, and repair. Been in business 12 years.
+We have about 15 technicians. We use ServiceTrade as our CRM.
+
+Clara Team: What are your business hours?
+
+Client: Monday to Friday, 7am to 5pm Mountain Time. We do have an after hours 
+emergency line. Sprinkler leaks and fire alarm triggers are our emergencies.
+Those go straight to our on-call dispatcher Mike at 720-555-0191.
+
+Clara Team: What happens if Mike doesn't answer?
+
+Client: Then it goes to our backup dispatcher Sarah at 720-555-0192. 
+If neither answers the customer gets a voicemail and we call back within 15 minutes.
+
+Clara Team: Any jobs you don't take?
+
+Client: We don't do residential. Commercial only. 
+We also never create sprinkler jobs directly in ServiceTrade without supervisor approval.
+
+Clara Team: How many calls roughly per week?
+
+Client: Maybe 40 to 60 calls a week. Mix of emergencies, inspections, and new installs.

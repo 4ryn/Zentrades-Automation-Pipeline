@@ -1,0 +1,49 @@
+ONBOARDING CALL - BEN'S ELECTRIC SOLUTIONS - CASE 001
+
+Onboarding Manager: Thanks Ben, let's lock down your exact configuration.
+
+Ben: Sure, ready to go.
+
+Onboarding Manager: Exact business hours?
+
+Ben: Monday to Friday, 8am to 4:30pm Mountain Time.
+
+Onboarding Manager: After hours window?
+
+Ben: After hours is 4:30pm to 8am weekdays, and all day Saturday and Sunday.
+
+Onboarding Manager: Emergency definition confirmed?
+
+Ben: Yes. Only two situations count as emergencies for after hours.
+First is power outages at gas stations for my property manager client.
+Second is complete power loss at any commercial property where I have an existing contract.
+
+Onboarding Manager: Emergency routing?
+
+Ben: Call me directly at 403-975-1773. If I don't answer in 45 seconds, 
+leave it. I will call back. Do not route to anyone else right now.
+
+Onboarding Manager: Transfer timeout?
+
+Ben: 45 seconds then fall back to message collection.
+
+Onboarding Manager: Fallback if transfer fails?
+
+Ben: Tell the customer: I was unable to reach our on-call technician. 
+Your message has been recorded and Ben will call you back within 30 minutes.
+
+Onboarding Manager: Whitelist numbers?
+
+Ben: My wife 403-975-1800, and my main contractor client 403-975-1900. 
+Those two go straight through always.
+
+Onboarding Manager: Any integration notes?
+
+Ben: Jobber integration is not live yet. All call info goes to my email only for now.
+Email is ben@benselectricsolutionsteam.com
+
+Onboarding Manager: Anything else?
+
+Ben: Do not book appointments directly. Only collect preferred date and time 
+and I will confirm manually. Also Greg my operations manager starts next month, 
+his number will be 403-975-1901 and he will eventually take over routing.

@@ -1,0 +1,28 @@
+ONBOARDING CALL - COOLBREEZE HVAC - CASE 003
+
+Onboarding Manager: Let's confirm Sandra.
+
+Sandra: Go ahead.
+
+Onboarding Manager: Hours confirmed Monday to Saturday 8am to 6pm Arizona MST no DST?
+
+Sandra: Correct. Also add that Sunday we are closed completely, no after hours emergency 
+response on Sundays except carbon monoxide and gas leaks only.
+
+Onboarding Manager: Emergency routing?
+
+Sandra: Me first at 480-555-0341, timeout 40 seconds, then Ramon at 480-555-0342.
+If Ramon doesn't answer in 40 seconds, collect info and tell customer 
+we will respond within one hour.
+
+Onboarding Manager: Any new constraints?
+
+Sandra: Yes. Do not accept any jobs in Glendale or Scottsdale zip codes. 
+We are not servicing those areas right now. If caller is from those areas, 
+politely tell them we are not servicing that area currently and suggest they call 
+a local provider.
+
+Onboarding Manager: Integration?
+
+Sandra: Jobber is live. After hours non-emergency calls should be logged in Jobber 
+automatically when integration is ready.

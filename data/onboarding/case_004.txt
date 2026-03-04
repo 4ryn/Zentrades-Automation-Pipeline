@@ -1,0 +1,27 @@
+ONBOARDING CALL - BRIGHT SPARK ELECTRICAL - CASE 004
+
+Onboarding Manager: Let's lock down your config David.
+
+David: Ready.
+
+Onboarding Manager: Hours Monday to Friday 8am to 5pm Central confirmed?
+
+David: Yes. Also add that we have a skeleton crew Saturday 9am to 1pm 
+for urgent non-emergency calls only.
+
+Onboarding Manager: Emergency routing confirmed?
+
+David: Yes dispatch at 713-555-0451, 60 second timeout, then Kevin at 713-555-0452.
+Kevin has 60 seconds too. If Kevin doesn't answer, this is critical, 
+stay on the line with the customer and tell them a technician is being paged 
+and will call within 10 minutes. Never let an emergency caller go to voicemail.
+
+Onboarding Manager: ServiceTitan constraints?
+
+David: Never create any job under $500 estimate in ServiceTitan. 
+Also never schedule inspections on Fridays, our teams are on project work Fridays only.
+
+Onboarding Manager: New information?
+
+David: Our main VIP client is Metro Houston Properties, their number is 713-555-8888.
+They should always be transferred to Kevin directly, any time, any day.

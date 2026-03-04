@@ -1,0 +1,28 @@
+DEMO CALL - GUARDIAN ALARM SYSTEMS - CASE 005
+
+Clara Team: Hello, thanks for your time. Tell us about your business.
+
+Client: I'm Patricia Nguyen, owner of Guardian Alarm Systems in Atlanta Georgia.
+We install and service fire alarms, security alarms, and access control systems.
+15 years in business. 12 technicians. We use ServiceTrade.
+Hours are Monday to Friday 8am to 5pm Eastern Time.
+
+Clara Team: What is an emergency for your business?
+
+Client: Fire alarm activation at a client site, alarm system complete failure,
+and access control failures at hospitals or schools. Those are our top three.
+
+Clara Team: How do emergencies get routed?
+
+Client: Emergency calls go to our 24 hour monitoring center first at 404-555-0561.
+They assess and dispatch. If it is a true emergency they call our on-call tech.
+We rotate on-call weekly. The current on-call number changes every Monday.
+
+Clara Team: Any constraints we should know?
+
+Client: Never promise same day service unless it is a confirmed emergency.
+Never create alarm inspection jobs in ServiceTrade without a signed work order first.
+
+Clara Team: Call volume?
+
+Client: About 35 to 55 calls per week.

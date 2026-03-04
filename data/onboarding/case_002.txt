@@ -1,0 +1,26 @@
+ONBOARDING CALL - APEX FIRE PROTECTION - CASE 002
+
+Onboarding Manager: Let's confirm your configuration Jason.
+
+Jason: Ready.
+
+Onboarding Manager: Business hours confirmed as Monday to Friday 7am to 5pm Mountain?
+
+Jason: Correct. Add Saturday 8am to 12pm for inspection calls only.
+
+Onboarding Manager: Emergency routing confirmed?
+
+Jason: Yes. Sprinkler leaks and fire alarm triggers only.
+Primary is Mike at 720-555-0191. Timeout is 30 seconds then go to Sarah at 720-555-0192.
+If Sarah doesn't answer in 30 seconds, collect name number address and tell them 
+we will call back within 15 minutes.
+
+Onboarding Manager: ServiceTrade constraint confirmed?
+
+Jason: Yes. Never create sprinkler jobs in ServiceTrade directly. 
+Only alarm inspection jobs can be created. Everything else collect info and we handle it.
+
+Onboarding Manager: Anything new?
+
+Jason: One thing. All calls from the number 720-555-9999 are from our biggest client 
+Rockwell Properties. Those calls skip all screening and go straight to Mike immediately.

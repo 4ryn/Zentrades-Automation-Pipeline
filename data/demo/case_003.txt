@@ -1,0 +1,27 @@
+DEMO CALL - COOLBREEZE HVAC - CASE 003
+
+Clara Team: Thanks for joining. Tell us about your business.
+
+Client: I'm Sandra Cole, owner of CoolBreeze HVAC in Phoenix, Arizona.
+We do heating, ventilation, and air conditioning for residential and light commercial.
+Been running 6 years. I have 8 technicians and we use Jobber.
+Business hours are Monday to Saturday, 8am to 6pm Arizona time, which is MST no DST.
+
+Clara Team: What counts as an emergency for you?
+
+Client: No heat in winter, no AC when it's over 100 degrees outside, 
+carbon monoxide alerts, and gas leaks near HVAC equipment.
+
+Clara Team: Who handles emergency calls after hours?
+
+Client: Me directly first at 480-555-0341. If I don't answer within 2 rings 
+it should go to my lead tech Ramon at 480-555-0342.
+
+Clara Team: Any services you don't offer?
+
+Client: We don't do commercial buildings over 3 floors. 
+We don't do refrigeration units or walk-in coolers.
+
+Clara Team: Call volume?
+
+Client: Around 30 to 50 calls a week. Summers are crazy busy.
