@@ -1,0 +1,63 @@
+{
+  "account_id": "case_003",
+  "business_profile": {
+    "owner_name": "Sandra Cole",
+    "industry": "HVAC",
+    "years_in_business": 6,
+    "current_challenges": [],
+    "current_team": {
+      "employees": 8,
+      "vans": null
+    },
+    "future_plans": {
+      "hiring_operations_manager": null,
+      "business_growth": null
+    },
+    "previous_solutions": {
+      "virtual_assistant": null
+    }
+  },
+  "company_name": "CoolBreeze HVAC",
+  "business_hours": {
+    "days": "Monday to Saturday",
+    "start": "8am",
+    "end": "6pm",
+    "timezone": "MST no DST"
+  },
+  "office_address": "Phoenix, Arizona",
+  "services_supported": [
+    "heating",
+    "ventilation",
+    "air conditioning"
+  ],
+  "emergency_definition": [
+    "no heat in winter",
+    "no AC when it's over 100 degrees outside",
+    "carbon monoxide alerts",
+    "gas leaks near HVAC equipment"
+  ],
+  "emergency_routing_rules": {
+    "primary_contact": "Sandra Cole (480-555-0341)",
+    "secondary_contact": "Ramon (480-555-0342)",
+    "fallback": null
+  },
+  "non_emergency_routing_rules": null,
+  "call_transfer_rules": {
+    "timeout_seconds": 2,
+    "retry_attempts": null,
+    "failure_message": null
+  },
+  "integration_constraints": [
+    "no commercial buildings over 3 floors",
+    "no refrigeration units",
+    "no walk-in coolers"
+  ],
+  "after_hours_flow_summary": "Emergency calls should be routed to Sandra Cole, then to Ramon if she doesn't answer within 2 rings",
+  "office_hours_flow_summary": null,
+  "questions_or_unknowns": [
+    "What services should the AI schedule automatically?",
+    "Which integrations should the agent avoid?",
+    "How should non-emergency calls be handled during office hours?"
+  ],
+  "notes": "CoolBreeze HVAC is a 6-year-old company with 8 technicians, operating in Phoenix, Arizona. They provide heating, ventilation, and air conditioning services for residential and light commercial clients."
+}

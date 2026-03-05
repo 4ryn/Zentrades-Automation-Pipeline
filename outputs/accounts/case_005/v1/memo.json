@@ -1,0 +1,65 @@
+{
+  "account_id": "case_005",
+  "business_profile": {
+    "owner_name": "Patricia Nguyen",
+    "industry": "Alarm Systems",
+    "years_in_business": 15,
+    "current_challenges": [],
+    "current_team": {
+      "employees": 12,
+      "vans": null
+    },
+    "future_plans": {
+      "hiring_operations_manager": null,
+      "business_growth": null
+    },
+    "previous_solutions": {
+      "virtual_assistant": null
+    }
+  },
+  "company_name": "Guardian Alarm Systems",
+  "business_hours": {
+    "days": "Monday to Friday",
+    "start": "8am",
+    "end": "5pm",
+    "timezone": "Eastern Time"
+  },
+  "office_address": "Atlanta, Georgia",
+  "services_supported": [
+    "Fire alarm installation",
+    "Security alarm installation",
+    "Access control systems installation",
+    "Fire alarm service",
+    "Security alarm service",
+    "Access control systems service"
+  ],
+  "emergency_definition": [
+    "Fire alarm activation at a client site",
+    "Alarm system complete failure",
+    "Access control failures at hospitals or schools"
+  ],
+  "emergency_routing_rules": {
+    "primary_contact": "24 hour monitoring center at 404-555-0561",
+    "secondary_contact": "On-call technician",
+    "fallback": null
+  },
+  "non_emergency_routing_rules": null,
+  "call_transfer_rules": {
+    "timeout_seconds": null,
+    "retry_attempts": null,
+    "failure_message": null
+  },
+  "integration_constraints": [
+    "Never promise same day service unless it is a confirmed emergency",
+    "Never create alarm inspection jobs in ServiceTrade without a signed work order first"
+  ],
+  "after_hours_flow_summary": "Emergency calls go to 24 hour monitoring center",
+  "office_hours_flow_summary": "Calls handled by office staff",
+  "questions_or_unknowns": [
+    "What is the process for rotating on-call technicians and updating the on-call number?",
+    "How should non-emergency calls be handled after hours?",
+    "What is the average response time for emergency calls?",
+    "Are there any specific protocols for handling access control failures at hospitals or schools?"
+  ],
+  "notes": "Guardian Alarm Systems is a 15-year-old company with 12 technicians, providing fire alarm, security alarm, and access control systems installation and service. They have a 24 hour monitoring center and rotate on-call technicians weekly."
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "field": "service_areas",
+    "old": null,
+    "new": {
+      "excluded_zip_codes": [
+        "Glendale",
+        "Scottsdale"
+      ]
+    }
+  }
+]

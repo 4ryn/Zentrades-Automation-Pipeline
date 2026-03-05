@@ -1,0 +1,29 @@
+[
+  {
+    "field": "priority_client",
+    "old": null,
+    "new": {
+      "client_name": "Rockwell Properties",
+      "client_phone": "720-555-9999",
+      "routing": "skip screening and go straight to Mike"
+    }
+  },
+  {
+    "field": "emergency_routing",
+    "old": null,
+    "new": {
+      "primary": "Mike",
+      "primary_phone": "720-555-0191",
+      "timeout": 30,
+      "secondary": "Sarah",
+      "secondary_phone": "720-555-0192",
+      "secondary_timeout": 30,
+      "fallback": "collect name, number, address and callback within 15 minutes"
+    }
+  },
+  {
+    "field": "servicetrade_constraint",
+    "old": null,
+    "new": "Never create sprinkler jobs in ServiceTrade directly. Only alarm inspection jobs can be created."
+  }
+]

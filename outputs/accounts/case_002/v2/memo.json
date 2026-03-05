@@ -1,0 +1,74 @@
+{
+  "account_id": "case_002",
+  "business_profile": {
+    "owner_name": "Jason Miller",
+    "industry": "Fire Protection",
+    "years_in_business": 12,
+    "current_challenges": [],
+    "current_team": {
+      "employees": 15,
+      "vans": null
+    },
+    "future_plans": {
+      "hiring_operations_manager": null,
+      "business_growth": null
+    },
+    "previous_solutions": {
+      "virtual_assistant": null
+    }
+  },
+  "company_name": "Apex Fire Protection",
+  "business_hours": {
+    "days": "Monday to Friday",
+    "start": "7am",
+    "end": "5pm",
+    "timezone": "Mountain Time"
+  },
+  "office_address": "Denver, Colorado",
+  "services_supported": [
+    "fire sprinkler installation",
+    "inspection",
+    "repair"
+  ],
+  "emergency_definition": [
+    "sprinkler leaks",
+    "fire alarm triggers"
+  ],
+  "emergency_routing_rules": {
+    "primary_contact": "Mike at 720-555-0191",
+    "secondary_contact": "Sarah at 720-555-0192",
+    "fallback": "voicemail with callback within 15 minutes"
+  },
+  "non_emergency_routing_rules": null,
+  "call_transfer_rules": {
+    "timeout_seconds": null,
+    "retry_attempts": null,
+    "failure_message": null
+  },
+  "integration_constraints": [
+    "do not create sprinkler jobs directly in ServiceTrade without supervisor approval"
+  ],
+  "after_hours_flow_summary": "emergency calls go to on-call dispatcher Mike, then backup dispatcher Sarah, then voicemail",
+  "office_hours_flow_summary": null,
+  "questions_or_unknowns": [
+    "What is the process for handling non-emergency calls during office hours?",
+    "How should the AI handle calls for residential services?",
+    "What is the supervisor approval process for creating sprinkler jobs in ServiceTrade?"
+  ],
+  "notes": "Apex Fire Protection is a commercial fire protection company with 12 years of experience, 15 technicians, and a CRM system in place. They have a clear emergency routing process and specific integration constraints.",
+  "emergency_routing": {
+    "primary": "Mike",
+    "primary_phone": "720-555-0191",
+    "timeout": 30,
+    "secondary": "Sarah",
+    "secondary_phone": "720-555-0192",
+    "secondary_timeout": 30,
+    "fallback": "collect name, number, address and callback within 15 minutes"
+  },
+  "servicetrade_constraint": "Never create sprinkler jobs in ServiceTrade directly. Only alarm inspection jobs can be created.",
+  "priority_client": {
+    "client_name": "Rockwell Properties",
+    "client_phone": "720-555-9999",
+    "routing": "skip screening and go straight to Mike"
+  }
+}

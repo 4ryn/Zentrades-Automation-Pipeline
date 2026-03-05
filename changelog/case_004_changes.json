@@ -1,0 +1,17 @@
+[
+  {
+    "field": "emergency_routing",
+    "old": null,
+    "new": "dispatch at 713-555-0451, 60 second timeout, then Kevin at 713-555-0452"
+  },
+  {
+    "field": "skeleton_crew",
+    "old": null,
+    "new": "Saturday 9am to 1pm for urgent non-emergency calls only"
+  },
+  {
+    "field": "service_titan_constraints",
+    "old": null,
+    "new": "never create job under $500 estimate, never schedule inspections on Fridays"
+  }
+]

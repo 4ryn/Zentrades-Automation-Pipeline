@@ -1,0 +1,62 @@
+{
+  "account_id": "case_004",
+  "business_profile": {
+    "owner_name": "David Okafor",
+    "industry": "Electrical Contracting",
+    "years_in_business": 10,
+    "current_challenges": [],
+    "current_team": {
+      "employees": 20,
+      "vans": null
+    },
+    "future_plans": {
+      "hiring_operations_manager": null,
+      "business_growth": null
+    },
+    "previous_solutions": {
+      "virtual_assistant": null
+    }
+  },
+  "company_name": "Bright Spark Electrical",
+  "business_hours": {
+    "days": "Monday to Friday",
+    "start": "8am",
+    "end": "5pm",
+    "timezone": "Central Time"
+  },
+  "office_address": "Houston, Texas",
+  "services_supported": [
+    "Commercial electrical contracting"
+  ],
+  "emergency_definition": [
+    "Power outages at commercial properties",
+    "Electrical fires or sparks",
+    "Generator failures",
+    "Complete loss of power in a building"
+  ],
+  "emergency_routing_rules": {
+    "primary_contact": "24 hour dispatch line (713-555-0451)",
+    "secondary_contact": "Emergency supervisor Kevin (713-555-0452)",
+    "fallback": null
+  },
+  "non_emergency_routing_rules": null,
+  "call_transfer_rules": {
+    "timeout_seconds": 60,
+    "retry_attempts": null,
+    "failure_message": null
+  },
+  "integration_constraints": [
+    "No integration with residential work",
+    "No integration with solar panel installation",
+    "No booking jobs under $500 without manager approval"
+  ],
+  "after_hours_flow_summary": null,
+  "office_hours_flow_summary": null,
+  "questions_or_unknowns": [
+    "What is the preferred method for non-emergency calls during business hours?",
+    "How should the AI handle calls related to residential work or solar panel installation?",
+    "What is the process for booking jobs under $500?",
+    "Are there any specific integrations required with ServiceTitan CRM?"
+  ],
+  "notes": "Bright Spark Electrical is a commercial electrical contractor with 10 years of experience, operating in Houston, Texas, with a team of 20 electricians and using ServiceTitan as their CRM."
+}
